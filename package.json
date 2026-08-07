@@ -1,0 +1,17 @@
+{
+  "name": "kezanix-web",
+  "version": "1.0.0",
+  "description": "Kezanix Keto Web - Landing Page and SPA Portal",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx live-server --port=3000"
+  },
+  "keywords": [
+    "keto",
+    "kezanix",
+    "fitness",
+    "landing"
+  ],
+  "author": "Kezanix Team",
+  "license": "ISC"
+}
